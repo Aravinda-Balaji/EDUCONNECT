@@ -1,1 +1,1 @@
-# JMINI
+# EDUCONECT
